@@ -1,0 +1,32 @@
+@import '../node_modules/@syncfusion/ej2-material-theme/styles/material.css';
+/* You can add global styles to this file, and also import other style files */
+
+:root {
+    --primary-color: #3a6ea5;
+    --secondary-color: #174887;
+    --accent-color: #0095da;
+    --light-gray: #F2F2F7;
+    --dark-gray: #333;
+    --text-color: #000;
+    --white: #ffffff;
+    --border-radius: 8px;
+    --box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    --transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+
+    --header-dark-gray:#F0EFEF;
+    --web-primary-color:#0095DA;
+    --web-secondary-color:#0D4689;
+    --foreground: #424242;
+
+    --elevation-z1: 0 2px 1px -1px rgba(0, 0, 0, 0.2),
+    0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12);
+  --elevation-z2: 0 2px 4px -1px rgba(0, 0, 0, 0.2),
+    0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12);
+  --hover: rgba(255, 255, 255, 0.04);
+  --thumb: rgba(0, 0, 0, 0.25);
+  --min-width: 100%x;
+  --max-width: 100%;
+
+  --header-text-color:#174887;
+  --side_text_color: #000;
+}
